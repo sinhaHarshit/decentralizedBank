@@ -1,0 +1,7 @@
+digitalBank Application:
+- User can deposit native cryptocurrency (Ether) to the bank
+- Users are paid interest for their deposit in the form of a custom ERC20 token.
+
+The ERC20 token implementation in this project is based upon the openzepplin library.
+
+Migration script is used to put the smart contract to the blockchain.
